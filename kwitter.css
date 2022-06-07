@@ -45,3 +45,12 @@ body {
  .login_button{
    background-color: #AB8CD6;
  }
+
+#MJ_btn{
+  background-color:#AB8CD6;
+  color: white;
+}
+
+h2{
+	font-size: 20px;
+}
